@@ -1,7 +1,7 @@
 Wordpress Video Plugin
 ======================
 
-Originally developped by [daburna][http://www.daburna.de/blog/]
+Originally developped by [daburna](http://www.daburna.de/blog/). [Official Wiki](http://www.daburna.de/dokuwiki/doku.php/start)
 
 The Wordpress Video Plugin adds a filter for WordPress that allows easy video embedding of 65 supported video sites. Supported sites:
 
